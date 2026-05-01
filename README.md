@@ -156,7 +156,7 @@ Bu arac bu arama sorgularinin **uretimini otomatiklestirir**. Hicbir hedef siste
 ### Kurulum Adimlari
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/google-dork-generator.git
+git clone https://github.com/onurerkoc-dev/google-dork-generator.git
 cd google-dork-generator
 ```
 
